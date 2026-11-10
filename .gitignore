@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+Local database
+sqlite3/
+
 # C extensions
 *.so
 
